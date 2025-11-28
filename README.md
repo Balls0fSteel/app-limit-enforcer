@@ -1,6 +1,6 @@
 # App Limit Enforcer
 
-A modern Windows .NET application that helps you limit daily usage time for specific applications.
+Free & Open-source, modern Windows .NET application that helps you limit daily usage time for specific applications.
 
 ## Features
 
@@ -50,6 +50,10 @@ The application will:
 
 Application data is stored in:
 `%LOCALAPPDATA%\AppLimitEnforcer\appdata.json`
+
+## Code
+
+Code was semi-written with the use of various AI LLM models.
 
 ## License
 
