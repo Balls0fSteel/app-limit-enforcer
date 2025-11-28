@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# NuGet packages
+packages/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Application data (local testing)
+appdata.json
